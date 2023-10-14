@@ -27,6 +27,9 @@ html{
     cursor: pointer;
     color: rgb(170, 255, 0);
 }
+.social-media-handles a{
+    text-decoration: none;
+}
 /* Nav */
 .nav-link{
   color: white; 
